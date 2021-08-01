@@ -2,7 +2,6 @@
 
 - 🔭 Procuro Trabalho na Área de Front-End Junior
 - 🌱 Estou Estudando JavaScript, Bootstrap
-- 😄 Pronouns: Ele/Dele
 
 ##
 
