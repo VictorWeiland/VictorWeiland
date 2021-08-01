@@ -30,7 +30,7 @@
     
     ##
  
-  ![Snake animation](https://github.com/VictorWeiland/VictorWeiland/blob/main/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/VictorWeiland/VictorWeiland/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
