@@ -1,7 +1,7 @@
 ### Ola!! Eu Sou o Victor Weiland 👋
 
 - 🔭 Procuro Trabalho na Área de Front-End Junior
-- 🌱 Estou Estudando JavaScript, Bootstrap
+- 🌱 Estou Estudando JavaScript, Bootstrap, vue.js, React.js
 
 ##
 
