@@ -1,7 +1,7 @@
 ### Ola!! Eu Sou o Victor Fernandes 👋
 
-- 🔭 Procuro Trabalho na Área de Front-End Junior
-- 🌱 Estou Estudando JavaScript, React.js
+- 🔭 Procuro Trabalho na Área de Front-End, Mobile
+- 🌱 Estou Estudando JavaScript, React-Native, Dart e Flutter
 
 ##
   
