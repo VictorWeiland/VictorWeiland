@@ -26,8 +26,9 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento de software,
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.simpleicons.org/typescript/3178C6">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.simpleicons.org/nodedotjs/5FA04E">
+  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">
 </div>
 
 **Dados e Engenharia de Dados**
