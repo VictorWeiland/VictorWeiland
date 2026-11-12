@@ -51,15 +51,24 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento de software,
 ---
 
 
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em"
-    src="https://github-stats-extended.vercel.app/api?username=VictorWeiland&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorWeiland&layout=compact&langs_count=7&theme=tokyonight"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em"
+          src="https://github-stats-extended.vercel.app/api?username=VictorWeiland&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em"
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorWeiland&layout=compact&langs_count=7&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ---
