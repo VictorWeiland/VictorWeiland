@@ -36,7 +36,8 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento de software,
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Apache Spark" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg">
-  <img align="center" alt="Databricks" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg">
+  <img align="center" alt="Databricks" height="40" width="50"
+src="https://cdn.simpleicons.org/databricks/FF3621">
 </div>
 
 **Plataformas e Ferramentas**
